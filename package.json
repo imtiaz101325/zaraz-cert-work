@@ -1,0 +1,24 @@
+{
+  "name": "zaraz-certification",
+  "version": "1.0.0",
+  "description": "A project to track my Zaraz certification",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "tbd"
+  },
+  "keywords": [
+    "zaraz",
+    "cloudflare",
+    "cdp",
+    "tms",
+    "gtm",
+    "analytics",
+    "reporting"
+  ],
+  "author": "Sk Imtiaz Ahmed",
+  "license": "MIT"
+}
