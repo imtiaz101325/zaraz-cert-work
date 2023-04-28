@@ -1,0 +1,17 @@
+{
+  "features": {
+    "supportUserPermissions": true,
+    "supportEnvironments": true,
+    "supportWorkspaces": true,
+    "supportGtagConfigs": false,
+    "supportBuiltInVariables": true,
+    "supportClients": false,
+    "supportFolders": true,
+    "supportTags": true,
+    "supportTemplates": true,
+    "supportTriggers": true,
+    "supportVariables": true,
+    "supportVersions": true,
+    "supportZones": true
+  }
+}

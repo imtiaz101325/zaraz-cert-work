@@ -1,0 +1,40 @@
+{
+  "builtInVariable": [
+    {
+      "accountId": "6056480947",
+      "containerId": "106025951",
+      "type": "PAGE_URL",
+      "name": "Page URL"
+    },
+    {
+      "accountId": "6056480947",
+      "containerId": "106025951",
+      "type": "PAGE_HOSTNAME",
+      "name": "Page Hostname"
+    },
+    {
+      "accountId": "6056480947",
+      "containerId": "106025951",
+      "type": "PAGE_PATH",
+      "name": "Page Path"
+    },
+    {
+      "accountId": "6056480947",
+      "containerId": "106025951",
+      "type": "REFERRER",
+      "name": "Referrer"
+    },
+    {
+      "accountId": "6056480947",
+      "containerId": "106025951",
+      "type": "EVENT",
+      "name": "Event"
+    },
+    {
+      "accountId": "6056480947",
+      "containerId": "106025951",
+      "type": "CLICK_ID",
+      "name": "Click ID"
+    }
+  ]
+}
